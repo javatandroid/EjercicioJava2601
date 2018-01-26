@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EjercicioJava2601</string>
+
+    <string name="sentadilla">Sentadillas</string>
+    <string name="abd">Abdominales</string>
+    <string name="bici">Bicicleta</string>
+    <string name="pasos">Pasos de granjero</string>
+
+    <string name="repAbs">Máxima cantidad de repeticiones</string>
+    <string name="repPasos">Máximo número de repeticiones</string>
+    <string name="repBici">Máximo número de vueltas</string>
+    <string name="repSentadilla">Máximo de peso en sentadilla</string>
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="estiloTexto">
+
+        <item name="android:layout_margin">@dimen/tam10</item>
+        <item name="android:textSize">@dimen/tam20</item>
+        <item name="android:layout_marginTop">@dimen/tam20</item>
+
+
+    </style>
+
+    <style name="botonabs" parent="estiloTexto">
+        <item name="android:text">@string/abd</item>
+    </style>
+
+    <style name="botonsent" parent="estiloTexto">
+        <item name="android:text">@string/sentadilla</item>
+    </style>
+
+    <style name="botonpasos" parent="estiloTexto">
+        <item name="android:text">@string/pasos</item>
+    </style>
+
+    <style name="botonbici" parent="estiloTexto">
+        <item name="android:text">@string/bici</item>
+    </style>
+
+</resources>
